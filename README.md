@@ -1,7 +1,7 @@
 # Heuristic-Search
 Instructions:
   1. Run "map_intialization" first to generate 50 differnet maps.
-  2. Run "Main" with the command: Main.py filename algorithms_type heuristics_type.
+  2. Run "Main" with the command: Main.py filename algorithms heuristics.(alogorithms and heuristics are all indicated by numbers)
  
  Note:
  
